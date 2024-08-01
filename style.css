@@ -784,19 +784,19 @@ footer {
   }
 }
 @media only screen and(max-width:540px) {
- .featured-name{
-  font-size: 40px;
- }
- .project-box{
-  width: 100%;
- }
- .from-inputs{
-  flex-direction: column;
- }
- .input-field{
-  width: 100%;
- }
- .mode{
-  margin-left: 50%;
- }
+  .featured-name {
+    font-size: 40px;
+  }
+  .project-box {
+    width: 100%;
+  }
+  .from-inputs {
+    flex-direction: column;
+  }
+  .input-field {
+    width: 100%;
+  }
+  .mode {
+    margin-left: 50%;
+  }
 }
